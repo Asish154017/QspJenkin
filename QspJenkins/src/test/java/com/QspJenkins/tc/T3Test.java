@@ -7,6 +7,8 @@ public class T3Test
 	public void method3()
 	{
 		Reporter.log("method3 executed",true);
+		Reporter.log("method3 executed",true);
 	}
+	
 
 }
