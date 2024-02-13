@@ -8,6 +8,7 @@ public class T2Test
 	{
 		Reporter.log("method 2 executed",true);
 		Reporter.log("method 2 checking",true);
+		Reporter.log("n1 is creating",true);
 	}
 
 }
